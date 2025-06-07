@@ -1,8 +1,9 @@
 # Project background
 This project analyzes a car dataset to explore factors influencing car prices, including data cleaning, exploratory analysis, and building a regression model to predict prices based on features like brand, mileage, and year.
 
-The dataset is included in this repository and can also be accessed directly at: [kaggle.com/datasets/smritisingh1997/car-salescsv](https://www.kaggle.com/datasets/smritisingh1997/car-salescsv)  
-Please note that a Kaggle account may be required to download it.
+The dataset used in this project is included in the repository itself under the data folder.
+It can also be accessed directly at: [kaggle.com/datasets/smritisingh1997/car-salescsv](https://www.kaggle.com/datasets/smritisingh1997/car-salescsv)  
+Please note that a Kaggle account may be required to download it from the source.
 
 # Methodology
 The dataset contains information on various cars, including their price, brand, model, mileage, year of manufacture, engine type, and body type. After cleaning the data, I focused on the most relevant features for the analysis.
