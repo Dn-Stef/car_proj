@@ -16,7 +16,7 @@ I also found some key correlations. As expected, price has a positive correlatio
 
 In terms of specific brands and categories, despite being a higher-end brand, Renault had the lowest average price among all the brands in this dataset, while BMW and Mercedes-Benz topped the list with the highest prices. Crossovers and petrol engines were associated with higher average prices, and low-mileage cars were typically more expensive than those with moderate mileage. However, an unexpected trend was that cars with very high mileage also showed a noticeable uptick in price.
 
-Next, I built a linear regression model to predict car prices based on the selected features. The model performed reasonably well, explaining 76% of the variance in the training data and 69% on the test data. This indicates that the model is quite effective but could benefit from further refinement, such as additional features or more advanced techniques.
+I built a linear regression model to predict car prices based on the selected features. The model explained 76% of the variance in the training data and 52% in the test data, indicating it performs well but could benefit from further refinement, such as additional features or advanced techniques.
 
 This analysis is useful for predicting car prices, which could be valuable for car dealerships, helping them estimate the value of cars for sale or resale. It could also assist buyers and sellers in making informed decisions based on the features of a car.
 
